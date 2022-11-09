@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\bin\Debug\net6.0\VSIntro.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\bin\Debug\net6.0\VSIntro.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\bin\Debug\net6.0\VSIntro.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\bin\Debug\net6.0\VSIntro.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\bin\Debug\net6.0\VSIntro.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\VSIntro.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\VSIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\VSIntro.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\VSIntro.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\VSIntro.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\VSIntro.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\refint\VSIntro.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\VSIntro.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\VSIntro.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\VSIntro\obj\Debug\net6.0\ref\VSIntro.dll

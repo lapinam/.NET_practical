@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\bin\Debug\net6.0\dotnetProjects.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\bin\Debug\net6.0\dotnetProjects.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\bin\Debug\net6.0\dotnetProjects.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\bin\Debug\net6.0\dotnetProjects.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\bin\Debug\net6.0\dotnetProjects.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\dotnetProjects.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\dotnetProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\dotnetProjects.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\dotnetProjects.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\dotnetProjects.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\dotnetProjects.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\refint\dotnetProjects.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\dotnetProjects.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\dotnetProjects.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\obj\Debug\net6.0\ref\dotnetProjects.dll
