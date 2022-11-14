@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\bin\Debug\net6.0\Practical1.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\bin\Debug\net6.0\Practical1.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\bin\Debug\net6.0\Practical1.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\bin\Debug\net6.0\Practical1.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\bin\Debug\net6.0\Practical1.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\Practical1.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\Practical1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\Practical1.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\Practical1.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\Practical1.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\Practical1.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\refint\Practical1.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\Practical1.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\Practical1.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Practical1\obj\Debug\net6.0\ref\Practical1.dll
