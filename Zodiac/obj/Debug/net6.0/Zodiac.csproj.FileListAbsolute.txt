@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\bin\Debug\net6.0\Zodiac.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\bin\Debug\net6.0\Zodiac.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\bin\Debug\net6.0\Zodiac.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\bin\Debug\net6.0\Zodiac.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\bin\Debug\net6.0\Zodiac.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\Zodiac.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\Zodiac.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\Zodiac.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\Zodiac.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\refint\Zodiac.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\Zodiac.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\Zodiac.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Zodiac\obj\Debug\net6.0\ref\Zodiac.dll

@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\CalculatorExtra.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\CalculatorExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\CalculatorExtra.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\CalculatorExtra.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\CalculatorExtra.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\bin\Debug\net6.0\CalculatorExtra.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\bin\Debug\net6.0\CalculatorExtra.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\bin\Debug\net6.0\CalculatorExtra.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\bin\Debug\net6.0\CalculatorExtra.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\bin\Debug\net6.0\CalculatorExtra.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\CalculatorExtra.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\refint\CalculatorExtra.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\CalculatorExtra.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\CalculatorExtra.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\CalculatorExtra\obj\Debug\net6.0\ref\CalculatorExtra.dll
