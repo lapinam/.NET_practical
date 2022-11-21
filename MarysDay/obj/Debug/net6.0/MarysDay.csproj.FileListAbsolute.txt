@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\MarysDay.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\MarysDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\MarysDay.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\MarysDay.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\MarysDay.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\bin\Debug\net6.0\MarysDay.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\bin\Debug\net6.0\MarysDay.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\bin\Debug\net6.0\MarysDay.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\bin\Debug\net6.0\MarysDay.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\bin\Debug\net6.0\MarysDay.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\MarysDay.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\refint\MarysDay.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\MarysDay.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\MarysDay.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\MarysDay\obj\Debug\net6.0\ref\MarysDay.dll

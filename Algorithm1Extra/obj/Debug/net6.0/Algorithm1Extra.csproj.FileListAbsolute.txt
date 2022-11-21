@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\Algorithm1Extra.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\Algorithm1Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\Algorithm1Extra.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\Algorithm1Extra.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\Algorithm1Extra.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\bin\Debug\net6.0\Algorithm1Extra.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\bin\Debug\net6.0\Algorithm1Extra.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\bin\Debug\net6.0\Algorithm1Extra.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\bin\Debug\net6.0\Algorithm1Extra.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\bin\Debug\net6.0\Algorithm1Extra.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\Algorithm1Extra.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\refint\Algorithm1Extra.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\Algorithm1Extra.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\Algorithm1Extra.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Algorithm1Extra\obj\Debug\net6.0\ref\Algorithm1Extra.dll
