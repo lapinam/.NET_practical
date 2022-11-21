@@ -9,33 +9,34 @@ string input3 = Console.ReadLine();
 double number1 = double.Parse(input1);
 double number2 = double.Parse(input2);
 
+double sum1 = number1 + number2;
+double sub1 = number1 - number2;
+double mult1 = number1 * number2;
+double div1 = number1 / number2;
+double mod1 = number1 % number2;
+
 if (input3 == "+")
 {
-    double sum1 = number1 + number2;
-    Console.WriteLine(sum1);
+       Console.WriteLine(sum1);
 }
 else if (input3 == "-")
 {
-    double sub1 = number1 - number2;
-    Console.WriteLine(sub1);
+        Console.WriteLine(sub1);
 }
 else if (input3 == "*")
 {
-    double mult1 = number1 * number2;
-    Console.WriteLine(mult1);
+        Console.WriteLine(mult1);
+}
+else if (input3 == "/" && number2 == 0)
+{
+    Console.WriteLine("The input is not valid");
 }
 else if (input3 == "/")
 {
-    double div1 = number1 / number2;
-    Console.WriteLine(div1);
+        Console.WriteLine(div1);
 }
 else if (input3 == "%")
 {
-    double mod1 = number1 % number2;
-    Console.WriteLine(mod1);
+        Console.WriteLine(mod1);
 }
 
-if (number2 == 0 && input3 == "/")
-{
-    Console.WriteLine("The input is not valid!");
-}
