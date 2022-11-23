@@ -17,26 +17,29 @@ double mod1 = number1 % number2;
 
 if (input3 == "+")
 {
-       Console.WriteLine(sum1);
+    Console.WriteLine(sum1);
 }
 else if (input3 == "-")
 {
-        Console.WriteLine(sub1);
+    Console.WriteLine(sub1);
 }
 else if (input3 == "*")
 {
-        Console.WriteLine(mult1);
-}
-else if (input3 == "/" && number2 == 0)
-{
-    Console.WriteLine("The input is not valid");
+    Console.WriteLine(mult1);
 }
 else if (input3 == "/")
 {
+    if (number2 == 0)
+    {
+        Console.WriteLine("The input is not valid");
+    }
+    else
+    {
         Console.WriteLine(div1);
+    }
 }
 else if (input3 == "%")
 {
-        Console.WriteLine(mod1);
+    Console.WriteLine(mod1);
 }
 
