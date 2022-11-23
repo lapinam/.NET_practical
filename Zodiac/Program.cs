@@ -2,12 +2,12 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Enter your birth month:");
+        Console.WriteLine("Enter your birth month (number from 1 to 12):");
         int birthMonth = Int32.Parse(Console.ReadLine());
-        Console.WriteLine("Enter your birth day:");
+        Console.WriteLine("Enter your birth day (number from 1 to 31):");
         int birthDay = Int32.Parse(Console.ReadLine());
 
-        if ((birthMonth == 0) || (birthMonth > 12) || (birthDay == 0) || (birthMonth == 1 && birthDay >31) || (birthMonth == 2 && birthDay > 28) || (birthMonth == 3 && birthDay > 31) || (birthMonth == 4 && birthDay > 30) || (birthMonth == 5 && birthDay > 31) || (birthMonth == 6 && birthDay > 30) || (birthMonth == 7 && birthDay > 31) || (birthMonth == 8 && birthDay > 31) || (birthMonth == 9 && birthDay > 30) || (birthMonth == 10 && birthDay > 31) || (birthMonth == 11 && birthDay > 30) || (birthMonth == 12 && birthDay > 31))
+        if ((birthMonth == 0) || (birthMonth > 12) || (birthDay == 0) || (birthMonth == 1 && birthDay >31) || (birthMonth == 2 && birthDay > 29) || (birthMonth == 3 && birthDay > 31) || (birthMonth == 4 && birthDay > 30) || (birthMonth == 5 && birthDay > 31) || (birthMonth == 6 && birthDay > 30) || (birthMonth == 7 && birthDay > 31) || (birthMonth == 8 && birthDay > 31) || (birthMonth == 9 && birthDay > 30) || (birthMonth == 10 && birthDay > 31) || (birthMonth == 11 && birthDay > 30) || (birthMonth == 12 && birthDay > 31))
         {
             Console.WriteLine("Input is invalid");
         }
