@@ -10,24 +10,40 @@ class Task30112022
 
         for (int i = 0; i < arraySize; i++) //what each element is (again only numbers)
         {
-            Console.WriteLine("Enter the element" + " " + i);
+            Console.WriteLine("Enter the element" + " " + i); //same as ($"Enter the element {i}")
             int element = UserInput.EnterIntNumber();
             array[i] = element;
         }
+        Console.Write("\n");
 
         bool noNegativeNumber = true;
         Console.WriteLine("The negative numbers in the sequence are:"); //writes if the element is a negative number
-        foreach (int element in array) 
+        foreach (int element in array)
         {
             if (element < 0)
             {
                 noNegativeNumber = false;
-                Console.WriteLine(element);
+                Console.WriteLine(element); //can use Console.Write() to write in the same line
             }
         }
         if (noNegativeNumber) //writes only if there are no negative numbers
             Console.WriteLine("None.");
+        Console.Write("\n");
 
+        //write all the elements in the same line
+        //bool noNegativeNumber = true;
+        //Console.Write("The negative numbers in the sequence are:"); //writes if the element is a negative number
+        //foreach (int element in array)
+        //{
+        //    if (element < 0)
+        //    {
+        //        noNegativeNumber = false;
+        //        Console.Write(element); //can use Console.Write() to write in the same line
+        //    }
+        //}
+        //if (noNegativeNumber) //writes only if there are no negative numbers
+        //    Console.Write("None.");
+        //Console.Write("\n");
 
 
         Console.WriteLine("The odd numbers in the sequence are:"); //checks if the number is odd using modulo (dividing by 2 until there is 0 or 1 left)
@@ -35,18 +51,21 @@ class Task30112022
         int oddElements = 0;
         foreach (int element in array)
         {
+            //if (Math.Abs((element % 2 == 1)) uses absolute value since it can be 1 or -1
             if (element % 2 != 0)
             {
                 noOddNumbers = false;
-                Console.WriteLine(element);
+                Console.Write(element);
                 oddElements++;
             }
         }
         if (noOddNumbers)
         {
             Console.WriteLine("None.");
-        }        
+        }
+        Console.Write("\n"); 
         Console.WriteLine("There are" + " " + oddElements + " " + "odd elements in the array."); //counts the odd numbers
+        Console.Write("\n");
 
 
         bool noSameNumbers= true;
@@ -57,8 +76,7 @@ class Task30112022
                 if (array[i] == array[j])
                 {
                     noSameNumbers= false;
-                    Console.WriteLine("There are multiple elements with the same value in the sequence.");
-                    break;
+                    break; //return statement terminates execution of the function in which it appears and returns control and the function's result, if any, to the caller
                 }
                 //else
                 //{
@@ -66,23 +84,38 @@ class Task30112022
                 //}
             }
         }
-        if (noSameNumbers)
+        if (!noSameNumbers)
+            Console.WriteLine("There are multiple elements with the same value in the sequence.");
+        else
             Console.WriteLine("There are no elements with the same value.");
+        Console.Write("\n");
+
+        //it's better to sort the array and check if identical to number next to it 
+        //sorting algorithm
+        //for (int i = 1; i < arraySize; i++)
+        //{
+        //    if (array[i] == array[i - 1]) ;
+        //    {
+        //        Console.WriteLine("Duplicates found");
+        //        break;
+        //    }
+        //}
 
 
         Console.WriteLine("Every second element of the array is:"); //writes every second element, uses for loop where the step is 2
         for (int i = 1; i < arraySize; i += 2)
         {
-            Console.WriteLine(array[i]);
+            Console.Write(" " + array[i]);
         }
+        Console.WriteLine("\n");
 
 
         double sum1 = 0; 
         foreach (int element in array) //counts every element for sum
         {
-            sum1 += element;
+            sum1 += element; //a += 2 <=> a = a +2
         }
-        double aver1 = sum1 / arraySize;
+        double aver1 = sum1 / arraySize; //aver1 /= arrayLength <=> aver1 = aver1 / arrayLength
         Console.WriteLine("The average value of the array is:" + " " + aver1);
 
 
