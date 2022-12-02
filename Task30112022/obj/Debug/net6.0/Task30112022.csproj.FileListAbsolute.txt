@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\Task30112022.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\Task30112022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\Task30112022.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\Task30112022.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\Task30112022.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\bin\Debug\net6.0\Task30112022.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\bin\Debug\net6.0\Task30112022.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\bin\Debug\net6.0\Task30112022.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\bin\Debug\net6.0\Task30112022.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\bin\Debug\net6.0\Task30112022.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\Task30112022.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\refint\Task30112022.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\Task30112022.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\Task30112022.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task30112022\obj\Debug\net6.0\ref\Task30112022.dll
