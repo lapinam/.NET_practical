@@ -5,10 +5,10 @@ class Task30112022
     public static void Main(string[] args)
     {
         Console.WriteLine("Enter the size of the array."); //how many elements in the sequence(integer array - numbers)
-        int ArraySize = UserInput.EnterIntNumber();
-        int[] array = new int[ArraySize];
+        int arraySize = UserInput.EnterIntNumber();
+        int[] array = new int[arraySize];
 
-        for (int i = 0; i < ArraySize; i++) //what each element is (again only numbers)
+        for (int i = 0; i < arraySize; i++) //what each element is (again only numbers)
         {
             Console.WriteLine("Enter the element" + " " + i);
             int element = UserInput.EnterIntNumber();
@@ -50,9 +50,9 @@ class Task30112022
 
 
         bool noSameNumbers= true;
-        for (int i = 0; i < ArraySize; i++) //compares if there are elements with the same value
+        for (int i = 0; i < arraySize; i++) //compares if there are elements with the same value
         {
-            for (int j = i + 1; j < ArraySize; j++)
+            for (int j = i + 1; j < arraySize; j++)
             {
                 if (array[i] == array[j])
                 {
@@ -71,7 +71,7 @@ class Task30112022
 
 
         Console.WriteLine("Every second element of the array is:"); //writes every second element, uses for loop where the step is 2
-        for (int i = 1; i < ArraySize; i += 2)
+        for (int i = 1; i < arraySize; i += 2)
         {
             Console.WriteLine(array[i]);
         }
@@ -82,7 +82,7 @@ class Task30112022
         {
             sum1 += element;
         }
-        double aver1 = sum1 / ArraySize;
+        double aver1 = sum1 / arraySize;
         Console.WriteLine("The average value of the array is:" + " " + aver1);
 
 
