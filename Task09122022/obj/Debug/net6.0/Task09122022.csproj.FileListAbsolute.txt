@@ -1,0 +1,5 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task09122022\obj\Debug\net6.0\Task09122022.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task09122022\obj\Debug\net6.0\Task09122022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task09122022\obj\Debug\net6.0\Task09122022.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task09122022\obj\Debug\net6.0\Task09122022.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\Task09122022\obj\Debug\net6.0\Task09122022.csproj.CoreCompileInputs.cache

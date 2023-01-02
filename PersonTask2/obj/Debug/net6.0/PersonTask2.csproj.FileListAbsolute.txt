@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\bin\Debug\net6.0\PersonTask2.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\bin\Debug\net6.0\PersonTask2.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\bin\Debug\net6.0\PersonTask2.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\bin\Debug\net6.0\PersonTask2.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\bin\Debug\net6.0\PersonTask2.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\PersonTask2.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\PersonTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\PersonTask2.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\PersonTask2.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\PersonTask2.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\PersonTask2.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\refint\PersonTask2.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\PersonTask2.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\PersonTask2.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\PersonTask2\obj\Debug\net6.0\ref\PersonTask2.dll

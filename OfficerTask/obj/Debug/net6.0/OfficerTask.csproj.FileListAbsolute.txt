@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\bin\Debug\net6.0\OfficerTask.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\bin\Debug\net6.0\OfficerTask.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\bin\Debug\net6.0\OfficerTask.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\bin\Debug\net6.0\OfficerTask.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\bin\Debug\net6.0\OfficerTask.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\OfficerTask.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\OfficerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\OfficerTask.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\OfficerTask.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\OfficerTask.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\OfficerTask.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\refint\OfficerTask.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\OfficerTask.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\OfficerTask.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\OfficerTask\obj\Debug\net6.0\ref\OfficerTask.dll
