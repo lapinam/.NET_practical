@@ -1,0 +1,15 @@
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\bin\Debug\net6.0\DistrictTask.exe
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\bin\Debug\net6.0\DistrictTask.deps.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\bin\Debug\net6.0\DistrictTask.runtimeconfig.json
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\bin\Debug\net6.0\DistrictTask.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\bin\Debug\net6.0\DistrictTask.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\DistrictTask.csproj.AssemblyReference.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\DistrictTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\DistrictTask.AssemblyInfoInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\DistrictTask.AssemblyInfo.cs
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\DistrictTask.csproj.CoreCompileInputs.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\DistrictTask.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\refint\DistrictTask.dll
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\DistrictTask.pdb
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\DistrictTask.genruntimeconfig.cache
+C:\Users\lapin\Desktop\SGT\dotnetProjects\DistrictTask\obj\Debug\net6.0\ref\DistrictTask.dll

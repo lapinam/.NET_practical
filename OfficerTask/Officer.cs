@@ -39,16 +39,18 @@ namespace OfficerTask
             set { this.crimesSolved = value; }
         }
 
-        public Officer()
+        public Officer()//no-argument constructor
         {
-            this.name = "";
-            this.surname = "";
-            this.officerID = 0;
-            this.workingDistrict = "" ;
-            this.crimesSolved = 0;
+            //you can write here some default values like:
+            //this.name = "";
+            //this.surname = "";
+            //this.officerID = 0;
+            //this.workingDistrict = "" ;
+            //this.crimesSolved = 0;
         }
 
         public Officer(string name, string surname, int officerID, string workingDistrict, int crimesSolved)
+            //argument constructor
         {
             this.Name = name;
             this.Surname = surname;
@@ -69,6 +71,14 @@ namespace OfficerTask
                 level = 3;
 
              return level;
+        }
+
+        public int Level //additional way how to get level
+        {
+            get
+            {
+                return this.CalculateLevel();
+            }
         }
 
         public static int Level1Off(Officer[] District99)
@@ -129,10 +139,11 @@ namespace OfficerTask
             Console.WriteLine("Officer ID number is:" + this.officerID);
             Console.WriteLine("Officer's working district is:" + this.workingDistrict);
             Console.WriteLine("Officer has solved : " + this.crimesSolved + " " + "crimes");
-            //Console.Write("Officer's level is:" + this.Level);
+            Console.Write("Officer's level is:" + this.CalculateLevel());
         }
 
-        public override string ToString()
+        public override string ToString()//ToString is inherited from Object (like all classes)
+            //and that is why we override it
         {
             string stringValue = "Name : " + this.Name + " ; " + "Surname : " + this.Surname + " ; " + "ID Number : " + this.officerID + " ; "
                 + "Working district : " + this.workingDistrict + " ; " + "Crimes solved : " + this.crimesSolved; 

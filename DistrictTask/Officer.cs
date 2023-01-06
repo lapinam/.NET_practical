@@ -61,6 +61,14 @@ namespace DistrictTask
             return level;
         }
 
+        public int Level //additional way how to get level
+        {
+            get
+            {
+                return this.CalculateLevel();
+            }
+        }
+
         public static int Level1Off(Officer[] District99)
         {
             int level1 = 0;

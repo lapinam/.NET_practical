@@ -32,8 +32,14 @@ namespace OfficerTask
             for (int i = 0; i < arrLength; i++)
             {
                 Console.WriteLine(District99[i].ToString());
+                //Console.WriteLine(District99[i]);
+                //these two are the same since ToString is an override method from oObject parent
+                //class (superclass) so you can write shorter code
             }
 
+            Officer officerWhy = new Officer();
+            Console.WriteLine(officerWhy.CalculateLevel());
+            Console.WriteLine(officerWhy.Level);
 
 
             Console.WriteLine("There are " + Officer.Level1Off(District99) + " level 1 officers in this district.");

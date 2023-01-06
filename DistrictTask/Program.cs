@@ -26,6 +26,8 @@
             District district1 = new District("Brooklyn 99", "New York", 001, district1arr);
             District district2 = new District("Hollywood 10", "Los Angeles", 002, district2arr);
 
+            district1.addNewOfficer(district1);
+            Console.WriteLine(district1.ToString());
 
         }
     }
