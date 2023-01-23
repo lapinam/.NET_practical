@@ -25,19 +25,19 @@ namespace OfficerTask
                 officer.WorkingDistrict = Console.ReadLine();
                 Console.WriteLine("Enter how many crimes you have solved:");
                 officer.CrimesSolved = Int32.Parse(Console.ReadLine());
-
-                
+                               
             }
 
             for (int i = 0; i < arrLength; i++)
             {
                 Console.WriteLine(District99[i].ToString());
                 //Console.WriteLine(District99[i]);
-                //these two are the same since ToString is an override method from oObject parent
+                //these two are the same since ToString is an override method from object parent
                 //class (superclass) so you can write shorter code
             }
 
             Officer officerWhy = new Officer();
+            //two ways how to get level
             Console.WriteLine(officerWhy.CalculateLevel());
             Console.WriteLine(officerWhy.Level);
 
