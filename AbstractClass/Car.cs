@@ -5,7 +5,9 @@ namespace AbstractClass
     class Car : Transport
     {
 
-        public Car (int wheels) : base(4) { }
+        public Car(int wheels) : base(4) { }
+
+        public Car() : base(4) { }
 
 
         public override void Move(int age)

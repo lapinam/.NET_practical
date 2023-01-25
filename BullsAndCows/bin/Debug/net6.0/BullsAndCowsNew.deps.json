@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "BullsAndCows/1.0.0": {
+      "BullsAndCowsNew/1.0.0": {
         "runtime": {
-          "BullsAndCows.dll": {}
+          "BullsAndCowsNew.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "BullsAndCows/1.0.0": {
+    "BullsAndCowsNew/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

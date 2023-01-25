@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lapin\\Desktop\\SGT\\dotnetProjects\\BullsAndCows\\BullsAndCows.csproj",
-      "projectName": "BullsAndCows",
-      "projectPath": "C:\\Users\\lapin\\Desktop\\SGT\\dotnetProjects\\BullsAndCows\\BullsAndCows.csproj",
+      "projectUniqueName": "C:\\Users\\lapin\\Desktop\\SGT\\finalProject\\BullsAndCowsNew\\BullsAndCowsNew.csproj",
+      "projectName": "BullsAndCowsNew",
+      "projectPath": "C:\\Users\\lapin\\Desktop\\SGT\\finalProject\\BullsAndCowsNew\\BullsAndCowsNew.csproj",
       "packagesPath": "C:\\Users\\lapin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lapin\\Desktop\\SGT\\dotnetProjects\\BullsAndCows\\obj\\",
+      "outputPath": "C:\\Users\\lapin\\Desktop\\SGT\\finalProject\\BullsAndCowsNew\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lapin\\AppData\\Roaming\\NuGet\\NuGet.Config",
